@@ -64,7 +64,7 @@ phub-cli
 git clone https://github.com/thornynepali/phub-cli.git
 cd phub-cli
 chmod +x install_termux.sh
-sudo ./install_termux.sh
+./install_termux.sh
 ```
 
 From source (recommended)
